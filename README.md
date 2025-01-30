@@ -85,6 +85,3 @@ This project is licensed under the **MIT License**.
 
 ## Contribution
 Contributions are welcome! Feel free to fork this repository, submit pull requests, or report issues.
-
-## Author
-[Your Name](https://github.com/ShahazaadAhmed)
