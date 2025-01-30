@@ -1,7 +1,7 @@
 # AES Cryptography Tool
 
 ## Description
-The **AES Cryptography Tool** is an advanced encryption and decryption application built using **CustomTkinter** and **PyCryptodome**. It allows users to securely encrypt messages using the **AES-128-CBC** algorithm and decrypt them using the correct secret key. The tool features an intuitive graphical interface designed for ease of use.
+The **AES Cryptography Tool** is an advanced encryption and decryption application built using CustomTkinter and PyCryptodome. It allows users to securely encrypt messages using the AES-128-CBC algorithm and decrypt them using the correct secret key. The tool features an intuitive graphical interface designed for ease of use.
 
 ## Features
 - **User-friendly GUI**: Built with CustomTkinter for a modern and responsive interface.
