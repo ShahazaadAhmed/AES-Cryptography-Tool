@@ -39,7 +39,11 @@ To run this application, ensure you have the following installed:
 ### Running the Application
 To launch the GUI application, run:
 ```bash
-python main.py
+python ciphertool.py
+```
+or use the excutable file
+```bash
+ciphertool.exe
 ```
 
 ### Encrypting a Message
