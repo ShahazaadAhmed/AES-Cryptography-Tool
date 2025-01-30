@@ -65,6 +65,13 @@ ciphertool.exe
 ### Reset Fields
 To clear all input fields, click the **⟳ (refresh button)** in the top right corner.
 
+### Troubleshooting
+
+If you encounter any issues or errors while running the application, you can use the provided **ZIP file**:
+
+1. **Extract the ZIP file**.
+2. Locate and run the **ciphertool.exe** file.
+3. Follow the encryption or decryption steps as needed.
 ## Project Structure
 ```
 .
